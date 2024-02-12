@@ -1,4 +1,4 @@
-package com.evodesign.buttontest;
+package com.evodesign.xboxcontrol;
 
 import android.content.Context;
 

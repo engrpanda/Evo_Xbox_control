@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.evodesign.buttontest'
+    namespace 'com.evodesign.xboxcontrol'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.evodesign.buttontest"
+        applicationId "com.evodesign.xboxcontrol"
         minSdk 24
         targetSdk 34
         versionCode 1
